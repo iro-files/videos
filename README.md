@@ -1,3 +1,3 @@
 # silly videos!!
 
-* mp4 format videos in main branch
+* mp4 and mov format videos in main branch
